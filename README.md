@@ -10,3 +10,8 @@ ini adalah repository untuk belajar machine learning. Materi disini gw dapet dar
 
 ---
 
+### Materi :
+* Python programming
+* Python automation
+* Linear Algebra
+* Supervised & Unsupervised ML
