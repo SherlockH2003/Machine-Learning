@@ -11,9 +11,9 @@ ini adalah repository untuk belajar machine learning. Materi disini gw dapet dar
 ---
 
 ### Materi :
-* Python programming
-* Python automation
 * Linear Algebra
-* Supervised & Unsupervised ML
+* Supervised Machine Learning
+* Advanced Machine Learning
+* Unsupervised Machine Learning
 * Neural Network
 * TensorFlow
