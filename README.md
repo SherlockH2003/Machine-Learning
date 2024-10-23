@@ -15,6 +15,6 @@ ini adalah repository untuk belajar machine learning. Materi disini gw dapet dar
 * Supervised Machine Learning
 * Advanced Machine Learning
 * Unsupervised Machine Learning
-  ** Clustering
-  ** K-means
-  ** Anomaly detections
+  * Clustering
+  * K-means
+  * Anomaly detections
