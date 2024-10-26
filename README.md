@@ -19,4 +19,8 @@ ini adalah repository untuk belajar machine learning. Materi disini gw dapet dar
   * K-means
   * Anomaly detections
 * Tensorflow introduction
-  * 
+  * Computer Vision
+  * Convolutional Neural Networks
+  * Callbacks
+  * TensorFlow dataset
+  * Data pipeline
