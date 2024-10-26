@@ -18,3 +18,5 @@ ini adalah repository untuk belajar machine learning. Materi disini gw dapet dar
   * Clustering
   * K-means
   * Anomaly detections
+* Tensorflow introduction
+  * 
