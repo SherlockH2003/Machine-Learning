@@ -24,3 +24,4 @@ ini adalah repository untuk belajar machine learning. Materi disini gw dapet dar
   * Callbacks
   * TensorFlow dataset
   * Data pipeline
+  * Natural Language Processing
